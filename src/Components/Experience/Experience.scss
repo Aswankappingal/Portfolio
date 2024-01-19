@@ -2,23 +2,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600;700;800&family=Roboto:wght@100;300;400&display=swap');
 
 
-.fulll-data{
-    
+.fulll-data {
+
     font-family: 'Outfit', sans-serif;
-    .Abilities{
+
+    .Abilities {
         text-align: center;
-        font-weight:100;
-        
+        font-weight: 100;
+
     }
-    .Abilities h2{
+
+    .Abilities h2 {
         text-align: center;
-        font-weight:600;
+        font-weight: 600;
         color: #ca4729a5;
-        
+
     }
-    .twocards{
+
+    .twocards {
         width: 90%;
-        
+
         height: 500px;
         margin-left: 5%;
         display: flex;
@@ -26,62 +29,92 @@
         align-items: center;
         gap: 60px;
         flex-wrap: wrap;
-        }
-        .frontend{
-               /* background-color: red; */
-          border: 1px solid rgb(221, 221, 221);
-          margin-bottom: 14px;
-          box-shadow: 0px 1px 10px -3px rgba(0, 0, 0, 0.453);
-          height: 360px;
-          width: 500px; 
-          transition: .5s;
-        }
-        .frontend h5{
-            margin-left: 40%;
-        }
-        .backend h5{
-            margin-left: 40%;
-           
+    }
 
-        }
-        .backend{
-            border: 1px solid rgb(221, 221, 221);
-            margin-bottom: 14px;
-            box-shadow: 0px 1px 10px -3px rgba(0, 0, 0, 0.284);
-            height: 360px;
-            width: 500px;
-            background-color: rgba(255, 255, 255, 0.895);
-            transition: .5s;
+    .frontend {
+        /* background-color: red; */
+        border: 1px solid rgb(221, 221, 221);
+        margin-bottom: 14px;
+        box-shadow: 0px 1px 10px -3px rgba(0, 0, 0, 0.453);
+        height: 360px;
+        width: 500px;
+        transition: .5s;
+    }
 
-        }
-        #front{
-            width: 20%;
-            text-align: center;
-            font-size: 16px;
-            color: #151515f3;
-            letter-spacing: 1px;
-           
-           
-        }
-        /////contenst only
-        .contents-m1{
-            margin-left: 8%;
-            width: 50%;
-           
-        }
-        #Adv{
-            margin-left: 10%;
-            font-weight: 200;
+    .frontend h5 {
+        margin-left: 40%;
+    }
 
-        }
-        .data-exp{
-            margin-left: 5%;
-            font-weight: 400;
-        }
-        .fa-check{
-            background-color: #ca4729a5;
-            border-radius: 2px;
-            color: white;
-            
-        }
+    .backend h5 {
+        margin-left: 40%;
+
+
+    }
+
+    .backend {
+        border: 1px solid rgb(221, 221, 221);
+        margin-bottom: 14px;
+        box-shadow: 0px 1px 10px -3px rgba(0, 0, 0, 0.284);
+        height: 360px;
+        width: 500px;
+        background-color: rgba(255, 255, 255, 0.895);
+        transition: .5s;
+
+    }
+
+    #front {
+        width: 20%;
+        text-align: center;
+        font-size: 16px;
+        color: #151515f3;
+        letter-spacing: 1px;
+
+
+    }
+
+    /////contenst only
+    /// 
+    /// 
+    ///
+
+    .two-contents-main {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+      
+    }
+
+    .contents-m1 {
+        margin-left: 10%;
+        width: 50%;
+
+    }
+
+    #Adv {
+        margin-left: 10%;
+        font-weight: 200;
+
+
+
+    }
+
+    .Adv-m {
+        margin-bottom: 30px;
+    }
+
+    .data-exp {
+        margin-left: 5%;
+        font-weight: 400;
+
+
+    }
+
+    .fa-check {
+        background-color: #ca4729a5;
+        border-radius: 2px;
+        color: white;
+
+    }
+
 }
