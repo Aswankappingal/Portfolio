@@ -1,4 +1,5 @@
 import './App.css'
+import Contact from './Components/Contact/Contact'
 import Experience from './Components/Experience/Experience'
 import Indro from './Components/Indro/Indro'
 import Projects from './Components/Projects/Projects'
@@ -13,6 +14,7 @@ function App() {
     <Projects/>
     <Experience/>
     <Works/>
+    <Contact/>
 
     </>
   )
