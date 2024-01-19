@@ -61,6 +61,35 @@ const Experience = () => {
                 <div className="backend">
                     <h5 id='front'>BackEnd <br /> Development</h5>
 
+                    <div className="two-contents-main">
+
+<div className="contents-m1">
+
+    <div className='data-main-exp'><i className="fa fa-check" aria-hidden="true"></i>
+        <span className='data-exp'>Node JS</span></div>
+    <div className='Adv-m'><span id='Adv'>Advanced</span></div>
+
+    <div className='data-main-exp'><i className="fa fa-check" aria-hidden="true"></i>
+        <span className='data-exp'>MySQL</span></div>
+    <div className='Adv-m'><span id='Adv'>Advanced</span></div>
+
+    
+
+</div>
+
+
+<div className="contents-m1">
+
+    <div className='data-main-exp'><i className="fa fa-check" aria-hidden="true"></i>
+        <span className='data-exp'>Mongo DB</span></div>
+    <div className='Adv-m'><span id='Adv'>Advanced</span></div>
+
+    
+
+</div>
+
+</div>
+
                 </div>
             </div>
 
