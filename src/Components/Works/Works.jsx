@@ -36,7 +36,7 @@ const Works = () => {
                     </div>
                     <div className="projects_main">
                         <div className={`project-items_one ${isVisible ? 'fade-up' : ''}`}><a href='https://github.com/shamilbinumer/SportsTrack.git'><img src="/Screenshot (67).png" alt="" /></a></div>
-                        <div className={`project-items_two ${isVisible ? 'fade-up' : ''}`}><a href='https://github.com/shamilbinumer/CollegeManagement.git'><img src="/Project 33.png" alt="" /></a></div>
+                        <div className={`project-items_two ${isVisible ? 'fade-up' : ''}`}><a href='https://github.com/shamilbinumer/CollegeManagement.git'><img src="/Project 2.png" alt="" /></a></div>
                         <div className={`project-items_three ${isVisible ? 'fade-up' : ''}`}><a href='https://github.com/shamilbinumer/BookMyShowClone.git'><img src="/Project 33.png" alt="" /></a></div>
                     </div>
                 </div>
