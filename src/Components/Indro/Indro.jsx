@@ -79,18 +79,18 @@ const Indro = () => {
                             <h1><span style={{ color: '#f9532d' }}>Aswan</span> Kappingal</h1>
                             <p>I'm a professional Web Developer. Our Main Goal is to help & satisfy local & global clients with web development solutions.</p>
                             <div className="social">
-                                <a href="https://www.linkedin.com/in/vikash-web-dev/" style={{ '--socialAni': 1 }}><i className='bx bxl-linkedin'></i></a>
-                                <a href="https://www.instagram.com/web_devs__/" style={{ '--socialAni': 2 }}><i className='bx bxl-instagram'></i></a>
-                                <a href="https://github.com/bikashdev01" style={{ '--socialAni': 3 }}><i className='bx bxl-github'></i></a>
-                                <a href="https://www.youtube.com/@Web_Devs__" style={{ '--socialAni': 4 }}><i className='bx bxl-youtube'></i></a>
+                                <a href="https://www.linkedin.com/in/aswan-kappingal-a26a292aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style={{ '--socialAni': 1 }}><i className='bx bxl-linkedin'></i></a>
+                                <a href="https://www.instagram.com/__ashvy_732?igsh=MTlxdTVtZHlrd3Axdw==" style={{ '--socialAni': 2 }}><i className='bx bxl-instagram'></i></a>
+                                <a href="https://github.com/Aswankappingal" style={{ '--socialAni': 3 }}><i className='bx bxl-github'></i></a>
+                                <a href="https://youtube.com/@aswan.kaswan8217?si=zJ7MlmXjWRk-oAa4" style={{ '--socialAni': 4 }}><i className='bx bxl-youtube'></i></a>
                             </div>
-                           
+
                         </div>
                     </div>
                 </section>
             </div>
 
-            
+
 
 
 
