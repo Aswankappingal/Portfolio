@@ -59,7 +59,7 @@ const Indro = () => {
                             <li><a href="#" style={{ '--navAni': 2 }}>About</a></li>
                             <li><a href="#" style={{ '--navAni': 3 }}>Skills</a></li>
                             <li><a href="#" style={{ '--navAni': 4 }}>Portfolio</a></li>
-                            <li><a href="#" style={{ '--navAni': 5 }}>Contact</a></li>
+                            <li><a href="#3" style={{ '--navAni': 5 }}>Contact</a></li>
                         </ul>
                         <label className="mode">
                             <input type="checkbox" id="darkModeToggle" />
