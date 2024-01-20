@@ -45,7 +45,7 @@ const Indro = () => {
                 <header className="container">
                     <div className="page-header">
                         <div className="logo">
-                            <a href="#">Logo.</a>
+                            <a href="#">ashvy</a>
                         </div>
                         <input type="checkbox" id="click" />
 
