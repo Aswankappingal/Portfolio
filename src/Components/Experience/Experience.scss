@@ -117,8 +117,26 @@
     }
 
 
-    @media(min-width:300px) and (max-width:675.98px){
-        
+    @media(min-width:300px) and (max-width:745.98px){
+
+        .Abilities {
+          margin-bottom: 20px;
+    
+        }
+    
+        .Abilities h2 {
+            margin-bottom: 20px;
+           
+    
+        }
+         .Abilities h4{
+            margin-bottom: 20px;
+
+        }
+        #front{
+            margin-top: 20px;
+        }
+
     }
 
 }
