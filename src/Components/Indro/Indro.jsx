@@ -35,7 +35,7 @@ const Indro = () => {
             <div className="Information">
               <h3>Hi, I'm Aswan</h3>
               <h1>Web Developer</h1>
-              <p>I'm a professional Web Developer. Our Main Goal to help & Satisfice the Local & Global Clients by web development solutions</p>
+              <p>I'm a professional Web Developer. My Main Goal to help & Satisfice the Local & Global Clients by web development solutions</p>
               <div className="social">
                 <a href="https://github.com/Aswankappingal" style={{ '--socialAni': 3 }}><i className="bi bi-github"></i></a>
                 <a href="https://youtube.com/@aswan.kaswan8217?si=zJ7MlmXjWRk-oAa4" style={{ '--socialAni': 4 }}><i className="bi bi-youtube"></i></a>
