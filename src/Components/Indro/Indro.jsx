@@ -42,7 +42,8 @@ const Indro = () => {
                 <a href="https://www.instagram.com/__ashvy_732?igsh=MTlxdTVtZHlrd3Axdw==" style={{ '--socialAni': 2 }}><i className="bi bi-instagram"></i></a>
                 <a href="https://www.linkedin.com/in/aswan-kappingal-a26a292aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style={{ '--socialAni': 1 }}><i className="bi bi-linkedin"></i></a>
               </div>
-              <button className="cv-btn">Download CV</button>
+              <button className="cv-btn"
+               onClick={() => window.open('Project 2.png')}>Download CV</button>
             </div>
             <div className="images">
               <div className="blue-bg-outer">

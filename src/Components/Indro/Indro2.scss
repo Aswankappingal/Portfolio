@@ -374,6 +374,7 @@ section {
     }
     .images {
         min-width: 15em;
+        margin-top: 30px;
     }
 
     .blue-bg-outer {
@@ -392,23 +393,34 @@ section {
         width: 12.75em;
         height: 12.75em;
     }
+    .blue-bg img {
+        position: relative;
+        
+        width: 80%;
+        margin-top: 12px;
+        margin-left: 23px;
+    }
 
 }
 
 @media only screen and (max-width: 320px) {
     .images {
         height: 17em;
-        margin-top: 20px;
+        padding-top: 20%;
+     
     }
     .blue-bg-outer {
         width: 16em;
         height: 16em;
+      
+      
 
     }
 
     .white-bg {
         width: 13em;
         height: 13em;
+     
     }
 
     .blue-bg {
@@ -421,7 +433,6 @@ section {
         bottom: 20px;
         right: 10px;
         width: 80%;
-        margin-left: 30px;
-        margin-top: 25px;
+        
     }
 }
