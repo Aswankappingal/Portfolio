@@ -167,11 +167,11 @@ li a:hover {
      animation-delay: .1s 
 }
 .images {
-    // background: linear-gradient(145deg, #f4f4f4, #ffffff);
+    background: linear-gradient(145deg, #323131, #dcd5d5);
     box-shadow: .3px .2px .5px #e4e4e4,;
-   
-    // border-top: 2px solid var(--primary-color);
+    border-top: 2px solid var(--primary-color);
     margin-left: 27%;
+    border-radius: 200px;
 }
 .img-w {
     width: 55%;
