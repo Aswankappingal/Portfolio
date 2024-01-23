@@ -27,7 +27,7 @@ const Contact = () => {
         <div className="firsticons">
        <div className='iconss-react'> <FaTelegramPlane /></div>
         <div className='adrress'><p>Email Adress</p></div>
-        <div className='adrresss  ss'><p>aswankappingal@gmail.com</p></div>
+        <div className='adrresss  s'><p>aswankappingal@gmail.com</p></div>
         </div>
          
      
