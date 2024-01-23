@@ -43,7 +43,7 @@ const Indro = () => {
                 <a href="https://www.linkedin.com/in/aswan-kappingal-a26a292aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style={{ '--socialAni': 1 }}><i className="bi bi-linkedin"></i></a>
               </div>
               <button className="cv-btn"
-               onClick={() => window.open('Project 2.png')}>Download CV</button>
+               onClick={() => window.open('../../../public/Aswan.k (1).pdf.pdf')}>Download CV</button>
             </div>
             <div className="images">
               <div className="blue-bg-outer">
