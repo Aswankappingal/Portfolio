@@ -31,7 +31,7 @@ const Indro = () => {
         </header>
 
         <section>
-          <div className="main  o">
+          <div className="main pp">
             <div className="Information">
               <h3>Hi, I'm Aswan</h3>
               <h1>Web Developer</h1>
