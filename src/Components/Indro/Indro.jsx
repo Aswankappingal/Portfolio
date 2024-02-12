@@ -18,7 +18,7 @@ const Indro = () => {
           <input type="checkbox" id="click" />
           <label htmlFor="click" className="mainicon">
             <div className="menu" id="menu">
-              <i className="bi bi-listrrrr"></i>
+              <i className="bi bi-listrrr"></i>
             </div>
           </label>
           <nav>
