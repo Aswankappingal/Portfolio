@@ -8,7 +8,7 @@ const Contact = () => {
   return (
     <div className='parent-full'>
       <div className='more-det'><span>More Details...!</span></div>
-      <div className='more-det-c'><h3>Contact mmme</h3></div>
+      <div className='more-det-c'><h3>Contact me</h3></div>
       <div className="para"><p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p></div>
       <div className="icons-data">
 
