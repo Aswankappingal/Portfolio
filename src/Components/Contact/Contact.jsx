@@ -6,7 +6,7 @@ import { FaTelegramPlane } from "react-icons/fa";
 
 const Contact = () => {
   return (
-    <div className='parent-full'>
+    <div className='parent-full---'>
       <div className='more-det'><span>More Details.....!</span></div>
       <div className='more-det-c'><h3>Contact Me</h3></div>
       <div className="para"><p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia</p></div>
